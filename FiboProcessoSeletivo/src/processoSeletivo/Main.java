@@ -13,7 +13,7 @@ public class Main {
 		
 		Fibonacci fibonac = new Fibonacci();
 		
-		
+		scanner.close();
 		
 		System.out.println(fibonac.fibonacciIterativo(entrada));
 
